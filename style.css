@@ -1,0 +1,17 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+
+.qua{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+
+.qua:hover{
+    background-color: rgb(21, 255, 0);
+}
+
